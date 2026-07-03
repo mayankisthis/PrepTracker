@@ -2,6 +2,10 @@
 
 A full-stack MERN application for tracking DSA preparation, monitoring consistency, and organizing solved problems for revision.
 
+## 🌐 Live Demo
+https://prep-tracker-8wve.vercel.app/
+
+
 ## ✨ Features
 
 ### 🔐 Authentication
